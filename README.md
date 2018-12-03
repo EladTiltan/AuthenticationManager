@@ -1,0 +1,2 @@
+# AuthenticationManager
+Simple Authentication Manager
